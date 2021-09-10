@@ -12,3 +12,16 @@ video{width:1280px}
 	video{width: 90%;}
 }
 p,a {color: white;}
+
+.message {
+  padding: 15px 40px;
+  background-color: #2395c2;
+  cursor: pointer;
+  box-shadow: 0 7px #113d4e;
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
