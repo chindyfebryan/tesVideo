@@ -22,7 +22,7 @@ p,a {color: white;}
   box-shadow: none;
 }
 
-video{width:1280px}
+video{width:1280px;margin-top:30px;}
 
 @media (max-width:1000px){
 	video{width: 90%;}
