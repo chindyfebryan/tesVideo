@@ -1,11 +1,10 @@
 @media (max-width:670px){
-footer{
+body{
   text-align:  center;
 	}}  
 body{
 	background-color: black;
-	font-family:  verdana;
-	margin: center;}
+	font-family:  verdana;}
 .title {
 
 	color: red;
