@@ -1,12 +1,10 @@
 body{
 	background-color: black;
-}
+	font-family:  verdana;
+	margin: center;}
 .title {
-	float: center;
+
 	color: red;
-	font-family:  verdana;
-	}
+}
 p {
-	float: center;
-	color: white;
-	font-family:  verdana;
+	color: white;}
