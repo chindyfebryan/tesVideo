@@ -7,7 +7,7 @@ body{
 }
 p {
 	color: white;}
-video{width:1360px}
+video{width:1280px}
 
 @media (max-width:1000px){
 	video{width: 90%;}
