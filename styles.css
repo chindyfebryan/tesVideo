@@ -1,7 +1,7 @@
 body{
 	text-align: center;
 	background-color: black;
-	font-family:  verdana;}
+	font-family:  system-ui, apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;};}
 .title {
 
 	color: red;
@@ -9,17 +9,18 @@ body{
 
 p,a {color: white;}
 
-.btn {
-  padding: 5px 20px;
-  background-color: #2395c2;
-  cursor: pointer;
-  box-shadow: 0 5px #113d4e;
+.btn:hover {
+  opacity: 1;
+  font-size:20px;
 }
 
-.btn:active {
-  position: relative;
-  top: 5px;
-  box-shadow: none;
+
+.btn {
+  font-family: Helvetica;
+  font-weight: bold;
+  padding: 5px 20px;
+  cursor: pointer;
+  text-decoration:none;
 }
 
 video{width:1280px;margin-top:30px;}
