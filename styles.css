@@ -6,11 +6,7 @@ body{
 
 	color: red;
 }
-video{width:1280px}
 
-@media (max-width:1000px){
-	video{width: 90%;}
-}
 p,a {color: white;}
 
 .message {
@@ -24,4 +20,10 @@ p,a {color: white;}
   position: relative;
   top: 7px;
   box-shadow: none;
+}
+
+video{width:1280px}
+
+@media (max-width:1000px){
+	video{width: 90%;}
 }
