@@ -7,7 +7,7 @@ public class Divisor {
 
         for(int d=1;d<n;d++){
             if(n%d==0){
-                System.out.println(d);
+                System.out.println(d);//
             }
         }
     }   
